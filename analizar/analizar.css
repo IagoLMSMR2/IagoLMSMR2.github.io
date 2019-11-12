@@ -1,0 +1,64 @@
+h2 {padding:40px;
+    margin:auto;
+    text-align:center;
+    font-size: 40pt;
+}
+body{background-color:green; 
+}
+input[type=text] {
+  font-family: "Times New Roman", Times, serif;
+  padding:20px;
+  margin:auto;
+  padding-left:20px;
+}
+input[type=password] {
+  font-family: "Times New Roman", Times, serif;
+  padding:20px;
+  margin:auto;
+  padding-left:20px;
+}
+input[type=button] {
+  font-family: "Times New Roman", Times, serif;
+  padding:20px;
+  margin:auto;
+  padding-left:20px;
+}
+input[type=text], input[type=submit], input[type=reset] {
+	width:80%;
+	padding: 12px 20px;
+	margin: 20px 0;
+	box-sizing: border-box;
+	border: 2px;
+	border-radius: 7px;
+}
+input[type=text] {
+	background-color: #ff8000;
+	color: white;
+	padding:20px;
+	margin:auto;
+	padding-left:20px;
+}
+input[type=password] {
+	width:80%;
+	padding: 12px 20px;
+	margin: 10px 0;
+	box-sizing: border-box;
+	border: 2px;
+	border-radius: 7px;
+}
+input[type=password] {
+	background-color: #F21919;
+	color: white;
+	padding:20px;
+	margin:auto;
+	padding-left:20px;
+}
+input[type=button], input[type=submit], input[type=reset] {
+	background-color: #55ff99;
+	border: 15px;
+	color: blue;
+	padding: 16px 32px;
+	text-decoration: none;
+	margin: 6px 8px;
+	cursor: crosshair;
+}

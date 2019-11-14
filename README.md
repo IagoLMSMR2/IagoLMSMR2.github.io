@@ -6,5 +6,5 @@ Benvido a o meu repostorio [Visita o meu blog](https://smr2194417893.wordpress.c
 
 
 Polo de agora estudei:
-* [html]
-* [css]
+* html
+* css
